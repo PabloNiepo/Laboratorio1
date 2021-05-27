@@ -1,0 +1,11 @@
+D:\Users\Pablo\Documents\TUP\laboratorio1-2021\Guia6-Ej2\Guia6-Ej2\bin\Debug\netcoreapp2.1\Guia6-Ej2.deps.json
+D:\Users\Pablo\Documents\TUP\laboratorio1-2021\Guia6-Ej2\Guia6-Ej2\bin\Debug\netcoreapp2.1\Guia6-Ej2.runtimeconfig.json
+D:\Users\Pablo\Documents\TUP\laboratorio1-2021\Guia6-Ej2\Guia6-Ej2\bin\Debug\netcoreapp2.1\Guia6-Ej2.runtimeconfig.dev.json
+D:\Users\Pablo\Documents\TUP\laboratorio1-2021\Guia6-Ej2\Guia6-Ej2\bin\Debug\netcoreapp2.1\Guia6-Ej2.dll
+D:\Users\Pablo\Documents\TUP\laboratorio1-2021\Guia6-Ej2\Guia6-Ej2\bin\Debug\netcoreapp2.1\Guia6-Ej2.pdb
+D:\Users\Pablo\Documents\TUP\laboratorio1-2021\Guia6-Ej2\Guia6-Ej2\obj\Debug\netcoreapp2.1\Guia6-Ej2.csprojAssemblyReference.cache
+D:\Users\Pablo\Documents\TUP\laboratorio1-2021\Guia6-Ej2\Guia6-Ej2\obj\Debug\netcoreapp2.1\Guia6-Ej2.csproj.CoreCompileInputs.cache
+D:\Users\Pablo\Documents\TUP\laboratorio1-2021\Guia6-Ej2\Guia6-Ej2\obj\Debug\netcoreapp2.1\Guia6-Ej2.AssemblyInfoInputs.cache
+D:\Users\Pablo\Documents\TUP\laboratorio1-2021\Guia6-Ej2\Guia6-Ej2\obj\Debug\netcoreapp2.1\Guia6-Ej2.AssemblyInfo.cs
+D:\Users\Pablo\Documents\TUP\laboratorio1-2021\Guia6-Ej2\Guia6-Ej2\obj\Debug\netcoreapp2.1\Guia6-Ej2.dll
+D:\Users\Pablo\Documents\TUP\laboratorio1-2021\Guia6-Ej2\Guia6-Ej2\obj\Debug\netcoreapp2.1\Guia6-Ej2.pdb
