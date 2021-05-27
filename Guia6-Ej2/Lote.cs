@@ -17,11 +17,29 @@ namespace Guia6_Ej2
         public int Numero {get {return numero; } }
         public int Cantidad { get { return cantidad; } }
 
-        public int PorcCorrectos { get { return correctos; } }
+        public double PorcCorrectos
+        {
+            get
+            {
+                double porcor;
+                porcor = correctos * 100 / cantidad;
+
+                return porcor;
+            }
+        }
         public int Fallados { get { return fallados; } }
 
         public bool RegistrarPrueba(bool esCorrecto)
         {
+            cantidad++;
+            if (esCorrecto)
+            {
+                correctos++;
+            }
+            else
+            {
+                fallados++;
+            }
             return true;
         }
 
